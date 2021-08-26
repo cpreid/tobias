@@ -2,6 +2,7 @@
 Simple pub/sub style client for the Slack Discovery API
 
 ## Example 
+![in action](https://user-images.githubusercontent.com/2018204/130978576-1dbf9f1a-1f8f-4f2c-b593-ea40c206e818.gif)
 ```js
 const SlackDiscoveryListener = require('./index.js');
 
