@@ -8,7 +8,7 @@ const ENUM = {
   PROCESSEDMSGSMAXLENGTH: 10000,
 }
 
-class SlackDiscoveryListener {
+class Tobias {
 
   /**
    * Used to store boundaries for Slack Discovery API calls
@@ -146,4 +146,4 @@ class SlackDiscoveryListener {
   }
 }
 
-module.exports = SlackDiscoveryListener;
+module.exports = Tobias;

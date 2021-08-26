@@ -1,5 +1,5 @@
 {
-  "name": "slack-discovery-npm-package",
+  "name": "tobias",
   "version": "1.0.0",
   "description": "Simple pub/sub style client for the Slack Discovery API",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cpreid/slack-discovery.git"
+    "url": "git+https://github.com/cpreid/tobias.git"
   },
   "keywords": [
     "slack",
@@ -20,9 +20,9 @@
   "author": "Cooper Reid",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cpreid/slack-discovery/issues"
+    "url": "https://github.com/cpreid/tobias/issues"
   },
-  "homepage": "https://github.com/cpreid/slack-discovery#readme",
+  "homepage": "https://github.com/cpreid/tobias#readme",
   "dependencies": {
     "@slack/web-api": "^6.4.0"
   }

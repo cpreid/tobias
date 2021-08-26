@@ -1,6 +1,6 @@
-const SlackDiscoveryListener = require('./index.js');
+const Tobias = require('./index');
 
-const instance = new SlackDiscoveryListener({ 
+const instance = new Tobias({ 
   discoveryToken: process.env.SLACK_DISCOVERY_TOKEN, 
   logger: console, 
   pollingIntervalSec: 2.1 
