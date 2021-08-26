@@ -1,0 +1,29 @@
+{
+  "name": "slack-discovery-npm-package",
+  "version": "1.0.0",
+  "description": "Simple pub/sub style client for the Slack Discovery API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpreid/slack-discovery.git"
+  },
+  "keywords": [
+    "slack",
+    "discovery",
+    "monitor",
+    "slack",
+    "client"
+  ],
+  "author": "Cooper Reid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cpreid/slack-discovery/issues"
+  },
+  "homepage": "https://github.com/cpreid/slack-discovery#readme",
+  "dependencies": {
+    "@slack/web-api": "^6.4.0"
+  }
+}
