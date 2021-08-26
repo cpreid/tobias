@@ -8,7 +8,7 @@ const SlackDiscoveryListener = require('./index.js');
 const instance = new SlackDiscoveryListener({ 
   discoveryToken: process.env.SLACK_DISCOVERY_TOKEN, 
   logger: console, 
-  pollingIntervalSec: 2.1 
+  pollingIntervalSec: 1 
 });
 
 instance.on("message", ({ message, channelId, slackDiscoveryClient }) => {
